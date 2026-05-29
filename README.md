@@ -3,7 +3,7 @@
 An interactive Business Intelligence dashboard designed in Power BI to analyze the BMW used car market, evaluating pricing trajectories, inventory distribution, and performance metrics across 11,000 vehicles.
 
 ## 🖥️ Dashboard Preview
-![BMW Dashboard](dashboard_preview.png)
+![BMW Dashboard](Screenshots.png)
 
 ---
 
