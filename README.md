@@ -36,6 +36,13 @@ This report provides a data-driven overview of the BMW used car market based on 
 * **Skills:** Data Visualization, UI/UX Dashboard Design, KPI Metrics Definition, Report Storytelling.
 
 ---
+
+## Screenshots
+
+<img width="1479" height="860" alt="Screenshot 2026-05-29 173715" src="https://github.com/user-attachments/assets/6e57128f-20c3-4866-9a6d-7567c4c598d0" />
+
+
+---
 ### 📂 How to View the Project
 1. Download the `BMW_Price_Performance_Insights.pbix` file from this repository.
 2. Open it using **Power BI Desktop** to interact with the slicers and filters dynamically.
